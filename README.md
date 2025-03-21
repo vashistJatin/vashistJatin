@@ -8,7 +8,7 @@ A Passionate Developer from INDIA :)
 🚀 I’m currently learning: Blockchain and Solidity
 
 💬 Ask me about Full Stack Web Development, AI, Blockchain  
-📫 How to reach me: [your-jatin8966@gmail.com](mailto:jatin8966@gmail.com)
+📫 How to reach me: [jatin8966@gmail.com](mailto:jatin8966@gmail.com)
 <!--
 **vashistJatin/vashistJatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
