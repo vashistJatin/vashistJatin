@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm [Jatin Vashisht]
+A Passionate Developer from INDIA :)
 
+![Profile Image](your-image-url)
+
+🌱 I’m currently working on [EGO_Paysenger](your-project-link)    
+📄 Have a look at my [Portfolio](your-portfolio-link)  
+🚀 I’m currently learning: Blockchain and Solidity
+
+💬 Ask me about Full Stack Web Development, AI, Blockchain  
+📫 How to reach me: [your-jatin8966@gmail.com](mailto:jatin8966@gmail.com)
 <!--
 **vashistJatin/vashistJatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
