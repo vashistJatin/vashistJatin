@@ -35,31 +35,26 @@
 <td width="55%">
 
 ```typescript
-const jatin: Developer = {
-  name:     "Jatin Sharma",
-  title:    "Full Stack Developer",
-  base:     "Mohali/Chandigarh, Punjab 🇮🇳",
-
-  currently: {
-    building:  "Production web apps that ship",
-    learning:  ["Docker", "PostgreSQL", "AWS S3"],
-    openTo:    "React / Full Stack roles — immediate",
-  },
+const jatin = {
+  name:  "Jatin Sharma",
+  role:  "Full Stack Developer",
+  base:  "Mohali / Chandigarh 🇮🇳",
 
   stack: {
     frontend:  ["React", "Next.js", "TypeScript"],
-    styling:   ["Tailwind", "Shadcn/UI", "Bootstrap"],
-    animation: ["Framer Motion", "GSAP", "Three.js"],
-    backend:   ["Node.js", "Express", "NextAuth.js"],
-    database:  ["MongoDB", "SQL Server"],
+    styling:   ["Tailwind", "Shadcn/UI"],
+    animation: ["Framer Motion", "GSAP"],
+    backend:   ["Node.js", "Express"],
+    database:  ["MongoDB"],
     payments:  ["Stripe"],
-    ai:        ["Gemini API", "OpenAI API"],
+    ai:        ["Gemini", "OpenAI"],
   },
 
-  philosophy: "Obsessed with the gap between how
-               something works and how it feels.",
+  building:  "Apps that work in production",
+  learning:  ["Docker", "PostgreSQL", "AWS"],
+  openTo:    "React / Full Stack — now ✅",
 
-  availableFrom: "TODAY ✅",
+  mantra: "How it works AND how it feels.",
 };
 ```
 
