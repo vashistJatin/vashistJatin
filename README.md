@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1F4E79,100:2E75B6&height=220&section=header&text=Jatin%20Sharma&fontSize=65&fontColor=ffffff&fontAlignY=42&stroke=2E75B6&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1F4E79,100:2E75B6&height=180&section=header&text=Jatin%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=42&stroke=2E75B6&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+ship+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Framer+Motion+%7C+GSAP+%7C+Three.js;Open+to+Full+Stack+roles+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+ship+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Framer+Motion+%7C+GSAP+%7C+Three.js;Open+to+Full+Stack+roles+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,9 +44,9 @@ const jatin = {
 };
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=vashistJatin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vashistJatin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=vashistJatin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=vashistJatin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -138,7 +138,7 @@ const jatin = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashistJatin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashistJatin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="49%"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashistJatin&bg_color=0d1117&color=58A6FF&line=1F4E79&point=58A6FF&area=true&area_color=1F4E7933&hide_border=true&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -149,9 +149,9 @@ const jatin = {
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vashistJatin/vashistJatin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vashistJatin/vashistJatin/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vashistJatin/vashistJatin/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vashistJatin/Workflows/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vashistJatin/Workflows/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/vashistJatin/Workflows/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
